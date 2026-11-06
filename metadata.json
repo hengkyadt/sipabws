@@ -1,0 +1,6 @@
+{
+  "name": "SI-PAB Workshop PTKI Medan",
+  "description": "Sistem Informasi Peminjaman Alat dan Pemakaian Bahan Workshop Politeknik Teknologi Kimia Industri Medan terintegrasi Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
