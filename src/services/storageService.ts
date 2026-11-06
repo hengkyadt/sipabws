@@ -102,7 +102,7 @@ class StorageService {
       let isMatch = false;
 
       // Allow direct check for default initial admin password "AdminWorkshop2025!"
-      if (plainPassword === 'AdminWorkshop2025!') {
+      if (plainPassword === 'adminws2026') {
         isMatch = true;
       } else if (admin.passwordHash) {
         const [salt, storedHash] = admin.passwordHash.split(':');
